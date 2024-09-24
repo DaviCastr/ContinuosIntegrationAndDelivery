@@ -27,7 +27,7 @@
             />
         </HBox>
         <vbm:AnalyticMap
-            id="_IDGenAnalyticMap11"
+            id="_IDGenAnalyticMap1"
             width="100%"
             xmlns:l="sap.ui.layout"
             height="600px"
