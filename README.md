@@ -1,4 +1,4 @@
-## Application Details
+## Detalhes da aplicação
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Sun Sep 15 2024 14:28:14 GMT+0000 (Coordinated Universal Time)|
